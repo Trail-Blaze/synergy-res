@@ -1,0 +1,19 @@
+{
+  "navProps": {
+    "navElements": 2
+  },
+  "navElements": {
+    "nlink1": {
+      "icon": "fas fa-scroll",
+      "displayText": "Setup",
+      "collapsable": false,
+      "hyperLinksTo": "firststartup.html"
+    },
+    "nlink2": {
+      "icon": "fas fa-cog",
+      "displayText": "Settings",
+      "collapsable": false,
+      "hyperLinksTo": "settings.html"
+    }
+  }
+}
