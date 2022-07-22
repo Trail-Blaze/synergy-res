@@ -1,43 +1,25 @@
 {
    "navProps": {
-      "navElements": 6
+      "navElements": 3
    },
    "navElements": {
       "nlink1": {
-         "icon": "fas fa-play",
-         "displayText": "Boot",
+         "icon": "fas fa-house-chimney",
+         "displayText": "",
          "collapsable": false,
          "hyperLinksTo": "escrow.html"
       },
       "nlink2": {
-         "icon": "fas fa-list",
-         "displayText": "Server Listings",
-         "collapsable": false,
-         "hyperLinksTo": "servers.html"
-      },
-      "nlink3": {
          "icon": "fas fa-cog",
          "displayText": "Settings",
          "collapsable": false,
          "hyperLinksTo": "settings.html"
       },
-      "nlink4": {
-         "icon": "fas fa-info-circle",
-         "displayText": "About Launcher",
+      "nlink3": {
+         "icon": "fas fa-person-to-door",
+         "displayText": "",
          "collapsable": false,
-         "hyperLinksTo": "aboutOtto.html"
+         "hyperLinksTo": "_.html"
       },
-      "nlink5": {
-         "icon": "fas fa-alicorn",
-         "displayText": "Credits",
-         "collapsable": false,
-         "hyperLinksTo": "credits.html"
-      },
-      "nlink6": {
-         "icon": "fas fa-arrows-rotate",
-         "displayText": "Update Navigation",
-         "collapsable": false,
-         "hyperLinksTo": "update.html"
-      }
    }
 }
