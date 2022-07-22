@@ -11,7 +11,7 @@
       },
       "nlink2": {
          "icon": "fas fa-cog",
-         "displayText": "Settings",
+         "displayText": "",
          "collapsable": false,
          "hyperLinksTo": "settings.html"
       },
