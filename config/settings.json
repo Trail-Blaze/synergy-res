@@ -1,19 +1,6 @@
 {
-  "theme": "dark",
-  "online": true,
-  "fn_path": " C:\\Program Files...",
-  "backend": {
-    "debug": true,
-    "auto_update": true
-  },
-  "splash": {
-    "___expl": "Can be either default, custom, blazeSplash, s1, s2, s3, s4, s5, s6, s7, s8, s9, sx, c2s1, c2s2, c2s3, c2s4, c2s5, c2s6, c2s7, c2s8, c2s9, c2s10, etc...",
-    "type": "default",
-    "path0": "C:\\Blaze\\path0.png",
-    "path1": "C:\\Blaze\\path1.png"
-  },
-  "server_ip": "default",
-  "release": "beta",
-  "bypassMethod": "platinum",
+  "theme": "custom",
+  "release": "unstable__dev",
+  "bypassMethod": "backend",
   "tracking": true
 }
